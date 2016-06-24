@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="keywords" content"palabra, palabra_dos, etc">
+	<meta name="description" conet="descricion de mi sitio wed para el seo."
+		<meta name= "autor" content="manuel reyes">
+		<title>tablas en html</title>
+
+		<!-- este es un comentario de html -->
+		
+<style type="text/css">
+	table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+</style>
+</head>
+<body>
+<!-- Etiqueta para anidacion o agrupacon de contenidos -->
+<table id="my table" clase="tablesorter">
+<tr>
+   <td>    </td>
+   <td> <img src="http://g01.a.alicdn.com/kf/HTB12zbwHVXXXXbJXFXXq6xXFXXXd/New-Portable-font-b-MP3-b-font-Music-font-b-Player-b-font-LCD-Screen-font.jpg"> </td>
+</tr>
+
+
+</body>
+ </html>

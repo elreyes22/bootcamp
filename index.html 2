@@ -1,0 +1,116 @@
+	<!Doctype html>
+	<!DOCTYPE html>
+	<html>
+	<head>
+	<meta charset="utf-8">
+	<meta name="keywords" content"palabra, palabra_dos, etc">
+	<meta name="description" conet="Fisica sin limites."
+		<meta name= "autor" content="Manuel Reyes">
+		<title>Fisca moderna</title>
+		<title></title>
+	</head>
+	<body>
+	<!--es un comentario de html -->
+	<h1>fisica</h1>
+	<h2>fisica basica</h2>
+
+	<!-- Definiedo textos normales en html -->
+	<p>La Física la ciencias que sirven de ingrediente básico para todas las demás ciencias y su conocimiento es imprescindible para que éstas avancen. La utilización de principios físicos y químicos para resolver problemas prácticos ha dado lugar a diferentes ramas de la ingeniería.
+
+     La Física no sólo nos permite avanzar en el conocimiento de la naturaleza, sino que contribuye al desarrollo económico y social de la humanidad.
+
+     Un conocimiento básico de estas ciencias se hace necesario en la sociedad actual si queremos ser ciudadanos con capacidad de tomar decisiones propias. Es por ello que la Química se estudia dentro del ámbito científico</p>
+     <div id="tipos">
+     <h3>tipos de fisica</h3>
+
+     <span>Física clásica
+
+     Mecánica: mecánica clásica, mecánica de medios continuos, mecánica de fluidos.
+     Termodinámica y mecánica estadística.
+     Mecánica ondulatoria: acústica, óptica.
+     Electromagnetismo: electricidad, magnética
+
+     Física moderna
+
+     Relatividad: teoría especial de la relatividad, teoría general de la relatividad, gravitación.
+     Mecánica cuántica: átomo, núcleo, física química, física del estado sólido.
+     Física de partículas.
+     Física moderna
+
+     Relatividad: teoría especial de la relatividad, teoría general de la relatividad, gravitación.
+     Mecánica cuántica: átomo, núcleo, física química, física del estado sólido.
+     Física de partículas.Física moderna
+
+     Relatividad: teoría especial de la relatividad, teoría general de la relatividad, gravitación.
+     Mecánica cuántica: átomo, núcleo, física química, física del estado sólido.
+     Física de partículas.
+
+     Física contemporánea
+
+     Termodinámica fuera del equilibrio: mecánica estadística, percolación.
+     Dinámica no-lineal: turbulencia, teoría del caos, fractales.
+     Sistemas complejos: sociofísica, econofísica, crítica autorganizada, redes complejas.
+     Física mesoscópica: puntos cuánticos.
+     Nano-Física: pinzas ópticas.</span>
+     </div>
+     
+     <!-- nav, header y footer -->
+     	<nav>
+     <h4>Que estudia cada diciplina</h4>
+     
+     <ol>
+     	 <ul>Que disipinas estudia la fisica moderna</ul>
+     	 <span>Relatividad: teoría especial de la relatividad, teoría general de la relatividad, gravitación.
+         Mecánica cuántica: átomo, núcleo, física química, física del estado sólido.
+          Física de partículas.latividad: teoría especial de la relatividad, teoría general de la relatividad, gravitación.
+         Mecánica cuántica: átomo, núcleo, física química, física del estado sólido.
+          Física de partículaslatividad: teoría especial de la relatividad, teoría general de la relatividad, gravitación.
+         Mecánica cuántica: átomo, núcleo, física química, física del estado sólido.
+          Física de partículaslatividad: teoría especial de la relatividad, teoría general de la relatividad, gravitación.
+         Mecánica cuántica: átomo, núcleo, física química, física del estado sólido.
+          Física de partículaslatividad: teoría especial de la relatividad, teoría general de la relatividad, gravitación.
+         Mecánica cuántica: átomo, núcleo, física química, física del estado sólido.
+          Física de partículaslatividad: teoría especial de la relatividad, teoría general de la relatividad, gravitación.
+         Mecánica cuántica: átomo, núcleo, física química, física del estado sólido.
+          Física de partículas</span>
+         <ul>Que disipinas estudia la fisica clasica</ul>
+         <span>Mecánica: mecánica clásica, mecánica de medios contínuos, mecánica de fluidos.
+         Termodinámica y mecánica estadística.
+         Mecánica ondulatoria: acústica, óptica.
+         Electromagnetismo: electricidad, magnetizmo Mecánica: mecánica clásica, mecánica de medios contínuos, mecánica de fluidos.
+         Termodinámica y mecánica estadística.
+         Mecánica ondulatoria: acústica, óptica.
+         Electromagnetismo: electricidad, magnetizmoMecánica: mecánica clásica, mecánica de medios contínuos, mecánica de fluidos.
+         Termodinámica y mecánica estadística.
+         Mecánica ondulatoria: acústica, óptica.
+         Electromagnetismo: electricidad, magnetizmoMecánica: mecánica clásica, mecánica de medios contínuos, mecánica de fluidos.
+         Termodinámica y mecánica estadística.
+         Mecánica ondulatoria: acústica, óptica.
+         Electromagnetismo: electricidad, magnetizmoMecánica: mecánica clásica, mecánica de medios contínuos, mecánica de fluidos.
+         Termodinámica y mecánica estadística.
+         Mecánica ondulatoria: acústica, óptica.
+         Electromagnetismo: electricidad, magnetizmoMecánica: mecánica clásica, mecánica de medios contínuos, mecánica de fluidos.
+         Termodinámica y mecánica estadística.
+         Mecánica ondulatoria: acústica, óptica.
+         Electromagnetismo: electricidad, magnetizmoMecánica: mecánica clásica, mecánica de medios contínuos, mecánica de fluidos.
+         Termodinámica y mecánica estadística.
+         Mecánica ondulatoria: acústica, óptica.
+         Electromagnetismo: electricidad, magnetizmoMecánica: mecánica clásica, mecánica de medios contínuos, mecánica de fluidos.
+         Termodinámica y mecánica estadística.
+         Mecánica ondulatoria: acústica, óptica.
+         Electromagnetismo: electricidad, magnetizmo</span>
+         </ol>
+         </nav>
+         <!--formulario wed -->
+         <form action="index.html" method="get">
+         	<label for="consulta">consulta: </label>
+             <input type="text" name="consulta" placeholder="ingresa tu pregunta" id="consulata">
+         	
+         	</form> 
+         	<!-- Definiendo enlaces en html-->
+         	<a href="http://html.rincondelvago.com/fisica-basica.html" target="_blank"><img src="http://4.bp.blogspot.com/-v5melPB_uAE/TqGjL33ljgI/AAAAAAAAADE/7AED2jueBZc/s1600/caidalibre3.png"></a>
+         	<p><a href="#tipos">ir a tipos de fisica</a></p>
+         	
+
+	 </body>
+	 </html>

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="keywords" content"palabra, palabra_dos, etc">
+	<meta name="description" conet="descricion de mi sitio wed para el seo.">
+	<meta name= "autor" content="manuel reyes">
+		<title>Portafolio personal</title>
+		<link rel="stylesheet" type="text/css" href="estilo.css">
+
+		<!-- este es un comentario de html -->
+		
+ 
+
+ </head>
+ <body>
+ <h1 style="color:blue"><center> Hoja de vida </center> </h1>
+
+ <center><img style="width:80px" src="https://scontent.feoh1-1.fna.fbcdn.net/v/t1.0-9/1499601_620541414669734_266677739_n.jpg?oh=7172ca33195d9a974ad0284571b7e8ad&oe=5809BAC1" id="photo" alt="Computer Man" style="width:48px;height:48px;"></center>
+
+
+		<h2>Datos personales</h2>
+
+	
+		<!-- Etiqueta para anidacion o agrupacon de contenidos -->
+		
+	 <table>
+	
+		 <TR>
+			<th>NOMBRE</th>
+			<th>DOCUMENTO DE IDENTIDAD</th>
+			<th>FECHA DE NAMIENTO</th>
+			<th>LUGAR DE NAMIENTO</th>
+			<th>ESTADO CIVIL</th>
+			<th>EDAD</th>
+		    <th>DIRRECION</th>
+		    <th>TELEFONO</th>
+		    <th>REDES SOCIALES</th>
+	     </TR>
+
+	     <TR>
+	       <TD>MANUEL ENRIQUE REYES PULGARIN</TD>
+	       <TD>1037637635</TD>
+	       <TD>22/10/1994</TD>
+	       <TD>TURBO ANTIOQUIA</TD>
+	       <TD>SOLTERO</TD>
+	       <TD>21</TD>
+	       <TD>CLL 56 A SUR 56 A 24 APT 301</TD>
+	       <TD>3066302-3053230895</TD>
+	     <TD><a href="https://col125.mail.live.com/default.aspx" TD>potwor_nel@hotmail.com</a>
+
+	     </TR>
+
+	     </table >
+
+	   
+	     <h3>ESTUDIOS</h3>
+
+	     <table>
+	     <TR>
+	       <th>EDUCACION PRIMARIA</th>
+	       <th>EDUCACION SEGUNDARIA</th>
+	       <th>EDUCACION SUPERIOR</th>
+
+	       <th>CURSOS</th>
+	       <th>IDIOMAS</th>
+	     </TR>
+	       <TR>
+	       <TD>INSTITUCION EDUCATIVA PRIMITIVO LEAL LA DOCTORA</TD>	
+	       <TD>INSTITUCION EDUCATIVA PRIMITIVO LEAL LA DOCTORA</TD>
+	       <TD>SENA CALATRABA</TD>
+	    
+	       <TD>MANIPULACION  DE ALIMENTOS</TD>
+	       <TD>ESPAÑOL</TD>
+	     </TR>
+	    	
+	     </table>
+	    
+	      <H4>EXPERIENCIA LABORAL</H4>
+
+	     <TABLE>
+	    
+	     <TR>
+	      <th>LUGAR  Y CARGO</th>
+	      <th>LUGAR  Y CARGO</th>
+	      <th>LUGAR  Y CARGO</th>
+	      </TR>
+	     <TR>
+	       <TD>RAIZA. CARGO OPERARIO DE PRODUCUION</TD>
+	       <TD>DELIBERY SENTER TABACOS S.A.S CARGO INSTALADOR</TD>
+	       <TD>CALZADO LOS HERMANOS S.A.S CARGO OPERARIO DE PRODUCION</TD>
+	     </TR>
+
+
+	     </TABLE>
+	    
+	      <H5>REFERNCIAS PERSONALES</H5>
+	    
+	     <TABLE>
+	     <TR>
+	       <Th>NOMBRE Y CARGO</Th>
+	       <th>NOMBRE Y CARGO</th>
+	     </TR>
+	     <TR>
+	   	   <TD></TD>
+	   	   <TD></TD>
+	     </TR>
+
+	     </TABLE>
+</body>
+</html>

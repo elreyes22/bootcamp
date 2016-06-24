@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>javascript</title>
+</head>
+
+<body>
+
+<script type="text/javascript">
+//Declaramos las 3 variables de las notas
+
+var nota1,nota2,nota3;
+
+//el usuario ingresa las notas del alumno
+
+nota1=prompt('Ingrese 1ra. nota:','');
+nota2=prompt('Ingrese 2da. nota:','');
+nota3=prompt('Ingrese 3ra. nota:','');
+
+//Convertimos (o parseamos) los 3 string en enteros
+
+nota1=parseInt(nota1);
+nota2=parseInt(nota2);
+nota3=parseInt(nota3);
+
+//Declaramos la variable que vamos a usar para calcular el promedio
+
+var pro;
+pro=(nota1+nota2+nota3)/3;
+
+//Declaramos las condiciones que se nos pidieron
+
+if (pro>=8)
+{
+document.write('promocionado');
+}
+else
+{
+if (pro>=5)
+{
+document.write('regular');
+}
+else
+{
+document.write('reprobado');
+}
+} 
+var nombre;
+var nota;
+nombre=prompt('Ingrese nombre:','');
+nota=prompt('Ingrese su nota:','');
+if (nota>=4)
+{
+document.write(nombre+' esta aprobado con un '+nota);
+} 
+	
+</script>
+
+
+</body>
+</html>

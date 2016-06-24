@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="keywords" content"palabra, palabra_dos, etc">
+	<meta name="description" conet="descricion de mi sitio wed para el seo.">
+	<meta name= "autor" content="manuel reyes">
+	<title>Portafolio personal</title>
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+ </head>
+
+ <body >
+ <center><h1>HOJA DE VIDA</h1></center>
+
+ <center><img style="width:80px" src="https://scontent.feoh1-1.fna.fbcdn.net/v/t1.0-9/1499601_620541414669734_266677739_n.jpg?oh=7172ca33195d9a974ad0284571b7e8ad&oe=5809BAC1" id="photo" alt="Computer Man" style="width:48px;height:48px;"></center>
+
+ 
+       
+
+		<center><h2>Datos personales</h2></center>
+
+	
+		<!-- Etiqueta para anidacion o agrupacon de contenidos -->
+		
+	 <center><TABLE rows>
+	
+		 <TR>
+			<th>NOMBRE</th>
+			<th>DOCUMENTO DE IDENTIDAD</th>
+
+	     </TR>
+
+	     <TR>
+	       <TD>MANUEL ENRIQUE REYES PULGARIN</TD>
+	       <TD>1037637635</TD>
+	     </TR>
+
+	     <TR>
+	     <th>FECHA DE NAMIENTO</th>
+		 <th>LUGAR DE NAMIENTO</th>
+
+	     </TR>
+	     <tr>
+	       <TD>22/10/1994</TD>
+	       <TD>TURBO ANTIOQUIA</TD>
+	     </tr>
+	     
+	     <tr>
+
+			<th>ESTADO CIVIL</th>
+			<th>EDAD</th>
+		</tr>
+		  
+		  <tr>
+		   <TD>SOLTERO</TD>
+	       <TD>21</TD>
+			
+			</tr>
+
+		    <tr>
+		    <th>DIRRECION</th>
+		    <th>TELEFONO</th>
+		    </tr>
+		    <tr>
+		    <TD>CLL 56 A SUR 56 A 24 APT 301</TD>
+	       <TD>3066302-3053230895</TD>
+		    </tr>
+		  <tr>
+		   	<th>REDES SOCIALES</th>
+		   </tr>
+		    
+	     <tr> 
+	       
+	     <TD><a href="potwor_nel@hotmail.com" TD> </a>
+	     </tr>
+
+	     </TABLE rows></center>
+
+	   
+	     <center><h3>ESTUDIOS</h3></center>
+
+	     <center><table>
+	     <tr>
+	       <th>EDUCACION PRIMARIA</th>
+	       <th>EDUCACION SEGUNDARIA</th>
+	       </tr>
+	       
+	       <tr>
+	        <TD>INSTITUCION EDUCATIVA PRIMITIVO LEAL LA DOCTORA</TD>	
+	        <TD>INSTITUCION EDUCATIVA PRIMITIVO LEAL LA DOCTORA</TD>
+	       	</tr>
+	      
+	       <tr>
+	       	<th>EDUCACION SUPERIOR</th>
+	       	<th>CURSOS</th>
+	       </tr>
+	       
+	       <tr>
+	       	<TD>SENA CALATRABA</TD>
+	        <TD>MANIPULACION  DE ALIMENTOS</TD>
+	       </tr>
+	       
+
+	       
+	      <th>IDIOMAS</th>
+	     </tr>
+	       <tr>
+	       
+	       
+	       <td>ESPAÑOL</td>
+	     </tr>
+	    	
+	     </table></center>
+	    
+	      <center><H4>EXPERIENCIA LABORAL</H4></center>
+
+	     <center><TABLE>
+	    
+	     <tr>
+	      <th>LUGAR  Y CARGO</th>
+	      <th>LUGAR  Y CARGO</th>
+	      </tr>
+	      
+	      <tr>
+	       <td>RAIZA. CARGO OPERARIO DE PRODUCUION</td>
+	       <td>DELIBERY SENTER TABACOS S.A.S CARGO INSTALADOR</td>
+	      </tr>
+	      
+	      <tr>
+	      <th>LUGAR  Y CARGO</th>
+	      </tr>
+	     
+	     <tr>
+	     <td>CALZADO LOS HERMANOS S.A.S CARGO OPERARIO DE PRODUCION</td>
+	     </trtr>
+
+
+	     </TABLE></center>
+	    
+	      <center><H5>REFERNCIAS PERSONALES</H5></center>
+	    
+	     <center><TABLE>
+	     
+	     <tr>
+	       <Th>NOMBRE Y CARGO</Th>
+	       <th>NOMBRE Y CARGO</th>
+	     </tr>
+	     <tr>
+	   	   <td></td>
+	   	   <td></td>
+	     </tr>
+
+	     </TABLE></center>
+	     
+	     <form action="">
+	     <h2>CONTACTO</h2>
+	     <input type="text" name="Nombre" placeholder="Nombre">
+	     <input type="text" name="Correo" placeholder="Correo">
+	     <input type="text" name="Telefono" placeholder="Telefono">
+	     <textarea name="mensaje" placeholder="Esciba aqui su mensaje"> </textarea>
+	     <input type="button" value="ENVIAR" id="boton">
+	     	
+	     </form>
+</body>
+</html>

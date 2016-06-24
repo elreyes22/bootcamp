@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+
+<body>
+<fieldset>
+ 
+ <legend>Detalle de persona</legend>
+<div>
+	
+	<label>
+	nombre:
+	<input id="nombre" name="nombre" type="text">
+	</label>
+
+	<label>
+	clave:
+	<input id="clave" name="clave" type="password">
+	</label>
+
+	<label>
+	tel&eacutefono:
+	<input id="telefono" name="telefono" type="tel">
+	</label>
+
+	<label>
+	correo:
+	<input id="correo" name="correo" type="email">
+	</label>
+
+	<label>
+	fecha:
+	<input id="fecha" name="fecha" type="date">
+	</label>
+
+</div>
+	
+</fieldset>
+ 
+ <fieldset>
+	<legend>targeta de cr&eacute;dito</legend>
+	
+	<div class="card-type">
+
+		<input id="visa" name="visa" type="radio">
+		<label for="visa">VISA</label>
+		<input id="master" name="master" type="radio">
+		<label for="master">MASTER CARD</label>
+		<input id="amex" name="amex" type="radio">
+		<label for="amex">AMERICAN EXPRESS</label>
+
+	</div>
+
+
+	<div class="card-type">
+
+		<input id="visa" name="visa" type="checkbox">
+		<label for="visa">VISA</label>
+		<input id="master" name="master" type="checkbox">
+		<label for="master">MASTER CARD</label>
+		<input id="amex" name="amex" type="checkbox">
+		<label for="amex">AMERICAN EXPRESS</label>
+
+	</div>
+
+	<div>
+		<label>
+		descripci&oacute;n:
+		<textarea id="descripcion" name="descripcion" rows"10" cols="20">
+			
+		</textarea>
+
+		</label>
+	</div>
+	
+	<div>
+		<label>pa&iacute;s</label>
+		<input id="pais" name="pais" list="lista-pais" type="text">
+		<datalist id="lista-pais">
+		<option label="colombia" value="colombia"></option>
+		<option label="canada" value="canada"></option>
+		<option label="italia" value="italia"></option>
+		
+		
+
+		</datalist>
+	</div>
+
+</fieldset>
+<button type="submit">enviar</button>
+
+</body>
+</html>

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="keywords" content"palabra, palabra_dos, etc">
+	<meta name="description" conet="descricion de mi sitio wed para el seo."
+		<meta name= "autor" content="manuel reyes">
+		<title>tablas en html</title>
+
+		<!-- este es un comentario de html -->
+		
+<style type="text/css">
+	table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+</style>
+</head>
+<body>
+
+<!-- Etiqueta para anidacion o agrupacon de contenidos -->
+<table id="my table" clase="tablesorter">
+<thead>
+
+<caption>elementos de html que he aprendido hasta ahora</caption>
+	<tr>
+		
+		<th>elemento</th>
+		<th>descricion</th>
+
+
+	 </tr>
+	 </thead>
+	 <tbody>
+	 <tr>
+		<td> <center> elementos de raiz </center> </td>
+	 </tr>
+
+	 
+	 <tr>
+		<td>html</td>
+		<td>es el contenedor para todos los elementos</td>
+	 </tr>
+	 <tr>
+		<th>metadatos del documento</th>
+	 </tr>
+     <tr>
+	   <td>html</td>
+	   <td>es el contenedor para todos los elementos de un documeto</td>
+		
+	 </tr>
+	 <tr>
+      <td>head</td>
+       <td>contiene el titulo e informacion relacionada acerca del documento</td>
+    </tr>
+
+    <tr>
+    <td>title</td>
+    <td>provee un titulo para el documento</td>
+	</tr>
+	<tr>
+	<th>seccion</th>
+	</tr>
+	<tr>
+	<td>body</td>
+	<td>en la seccion donde se encuentra el contendo del documento</td>
+	</tr>
+	<tr>
+	<td>h1-h2</td>
+	<td>representa un encabezado</td>
+	</tr>
+	<tr>
+	<th>agrupacion de contenidos</th>
+	</tr>
+	<tr>
+	<td>p</td>
+	<td>representacion de un parrafo</td>
+	</tr>
+
+ </tbody>
+
+ </table>
+	
+ </body>
+ </html>

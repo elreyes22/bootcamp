@@ -1,0 +1,63 @@
+#wrapper {
+	width: 80%;
+	margin: 0 auto;
+
+ }
+
+article {
+	float: left;
+	height: 100%;
+	background - color:red;
+	padding: 2%;
+	text-align: center;
+	height: 400px; 
+
+}
+
+ #colomn1 {
+	background-color: #96c144;
+	width: 100%;
+
+ }
+ #colomn2 {
+	background-color: #6fa843;
+	width: 50%; 
+ }
+ #colomn3 {
+	background-color: #cde0aa;
+	width: 50%; 
+ }
+ @media screen and (max-width: 960px) {
+	 #wrapper {
+	 	width: 90%
+	 	margin:0 auto;
+
+	 } 
+
+ }
+ @media screen and (max-width: 640px) {
+	 #wrapper {
+	 	width: 100%
+	 	margin:0 auto;
+
+	 } 
+
+ }
+ @media screen and (max-width: 480px) {
+	#wrapper {
+	 	width: 100%
+	 	margin:0 auto;
+
+	} 
+	#colomm1 {
+		width: 100%;
+	}
+	#colomm2 {
+		width: 100%;
+	}
+	#colomm3 {
+		width: 100%;
+	}
+}
+
+

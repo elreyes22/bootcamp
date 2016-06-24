@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+<script type="text/javascript">
+
+var letra;
+var espacios;
+var errores =0;
+var total="";
+
+function mostrar(){
+	var n;
+	n=math.floor(math.random()*5);
+	espacios=palabras[n].length;
+	palabra=palabras[n];
+	document.write("la palabra tiene" + espacios + " letra <br>/>");
+}
+
+function validar(e){
+	t = (document.all)? e.KeyCode:e.which;
+	document.f1.letra.value="";
+	letra=string.fromcharcode(t);
+	var verificado = 0;
+	for(var i=o;i<espacios;i++)
+	{
+		verificado++;
+		if(palabra[i].indexof(letra)> -1)
+		{
+
+			document.getElementByid(i).innerhtml=letra;
+			total=total+letra;
+			if (total.legth==espacios)
+		{
+			alert("has ganado" + errores + "errores");
+			reset();
+		}
+		if(errores!=0)
+		{
+        errores=errores-1;
+
+		}
+
+		}else{
+			if(verificad ==1)
+		{
+			errores++;
+         
+
+	}
+	document.getElementByid("errores").innerhtml="errores: + errore";
+
+
+	}
+	}
+	}
+  
+  function reset(){
+  	var errores=0;
+  	var total="";
+  	document.getElementByid("errores").innerhtml="errores:0";
+  	LOCATION.reload(;
+  }
+
+    var palabras;
+    palabras=new array(5);
+    palabras[0]="niga";
+    palabras[1]="nazis";
+    palabras[2]="revolucion";
+    palabras[3]="comunismo";
+    palabras[4]="visionario";
+    mostrar();
+
+	
+</script>
+
+</body>
+</html>
